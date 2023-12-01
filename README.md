@@ -2,4 +2,4 @@ Modified based on XDMA driver (dma_ip_drivers) of Xilinx, to support P2P DMA wit
 
 The original code can be get from https://xilinx.github.io/dma_ip_drivers/
 
-Example testing command： ./run_test physical_addr(decimal)
+Example testing command(in the directory XDMA\linux-kernel\tests)： ./run_test physical_addr(decimal)
